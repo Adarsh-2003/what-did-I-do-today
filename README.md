@@ -1,5 +1,7 @@
-# what-did-I-do-today ?
 
+
+### 8th May 2025
+- added dynamic github contribution graph to portfolio (deployed another react app with graph and rendered it on the static one)
 
 ### 7th May 2025
 - created a bat file to automate syncing of datetime in my windows
